@@ -1,5 +1,8 @@
 _repo: Le-Voyage-de-Monsieur-Perrichon--13-Com-die-en-quatre-actes_9453
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Labiche, Eugène
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '4656'
     url: http://www.gutenberg.org/2009/agents/4656
 description: Introduction in English. Includes notes, exercises and vocabulary.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9453#Le-Voyage-de-Monsieur-Perrichon--13-Com-die-en-quatre-actes
 gutenberg_bookshelf:
 - FR Education et Enseignement
 - FR Théâtre
